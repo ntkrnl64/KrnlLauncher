@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KrnlLauncher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "KrnlLauncher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
